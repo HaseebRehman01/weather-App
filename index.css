@@ -43,6 +43,8 @@ main{
 }
 #input{
 
+width: 100%;
+max-width: 70%;
     /* padding-block: 8px; */
     background-color: none;
     border: none;
